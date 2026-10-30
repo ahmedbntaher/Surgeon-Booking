@@ -7,6 +7,7 @@ const languageOptions = document.querySelectorAll(".language-option");
 const translations = {
   fr: {
     ".skip-link": "Aller au contenu",
+    ".brand strong": "Dr Ben Taher Chafik",
     ".brand small": "Chirurgie générale et digestive",
     ".menu-toggle": "Menu",
     ".site-nav a": ["À propos", "Domaines de soins", "Parcours", "Contact", "Prendre rendez-vous <span aria-hidden=\"true\">↗</span>"],
@@ -62,6 +63,7 @@ const translations = {
   },
   en: {
     ".skip-link": "Skip to content",
+    ".brand strong": "Dr Ben Taher Chafik",
     ".brand small": "General Surgery & Digestive Surgery",
     ".menu-toggle": "Menu",
     ".site-nav a": ["About", "Areas of care", "Experience", "Contact", "Request an Appointment <span aria-hidden=\"true\">↗</span>"],
@@ -117,6 +119,7 @@ const translations = {
   },
   ar: {
     ".skip-link": "الانتقال إلى المحتوى",
+    ".brand strong": "الدكتور بن طاهر شفيق",
     ".brand small": "الجراحة العامة وجراحة الجهاز الهضمي",
     ".menu-toggle": "القائمة",
     ".site-nav a": ["عن الطبيب", "مجالات الرعاية", "الخبرة", "اتصل بنا", "حجز موعد <span aria-hidden=\"true\">↗</span>"],
